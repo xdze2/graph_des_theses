@@ -23,16 +23,17 @@ function attractive_energy(x1, y1, x2, y2)
     end;
 
 # Elec
+const EPSILON = 1e-4
 function repulsive_energy(x1, y1, x2, y2)
     u = x2 - x1
     v = y2 - y1
-    return 1/sqrt(u^2 + v^2)
+    return 1/sqrt(u^2 + v^2 + EPSILON)
     end;
 
 function repulsive_gradient(x1, y1, x2, y2)
     u = x2 - x1
     v = y2 - y1
-    d = sqrt(u^2 + v^2)^3
+    d = sqrt(u^2 + v^2 + EPSILON)^3
     return (u/d, v/d, -u/d, -v/d)
     end;
 
