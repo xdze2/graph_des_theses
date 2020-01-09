@@ -1,0 +1,19 @@
+## Graph Layout
+ 
+- 2014 ForceAtlas2 (Gephi)  
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0098679&type=printable
+
+
+- 1995 A Fast Adaptive Layout Algorithm for Undirected Graphs (Extended Abstract and System Demonstration)  
+https://www.researchgate.net/publication/30508515_A_Fast_Adaptive_Layout_Algorithm_for_Undirected_GraphsExtended_Abstract_and_System_Demonstration
+
+
+## From MD
+
+- Lammps doc.:  https://lammps.sandia.gov/doc/min_style.html  
+
+
+- Optimization methods for finding minimum energy paths  
+https://pdfs.semanticscholar.org/bf98/88a850e8dcf2a5561f0a0f02b403cefb9f5e.pdf
+  
+see H. Jónsson, G. Mills, and K. W. Jacobsen,Classical and Quantum Dy-namics in Condensed Phase Simulations, edited by B. J. Berne, G. Cic-cotti, and D. F. CokerWorld Scientific, Singapore, 1998, pp. 385–404
