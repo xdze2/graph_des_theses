@@ -3,10 +3,29 @@
 - 2014 ForceAtlas2 (Gephi)  
 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0098679&type=printable
 
+- 2013 A survey of two-dimensional graph layout techniques for information visualisation  
+http://nrl.northumbria.ac.uk/16689/1/survey_graph_layout_preprint.pdf 
+
+- 2009 Scalable, Versatile and Simple Constrained Graph Layout  
+http://users.monash.edu/~tdwyer/Dwyer2009FastConstraints.pdf
+
+
+- 2005 An Experimental Comparison of Fast Algorithms for Drawing General Large Graphs
+https://core.ac.uk/download/pdf/141726244.pdf
 
 - 1995 A Fast Adaptive Layout Algorithm for Undirected Graphs (Extended Abstract and System Demonstration)  
 https://www.researchgate.net/publication/30508515_A_Fast_Adaptive_Layout_Algorithm_for_Undirected_GraphsExtended_Abstract_and_System_Demonstration
 
+
+- TopoLayout:Multi-Level Graph Layout by Topological Features  
+https://www.researchgate.net/profile/Daniel_Archambault/publication/6582419_TopoLayout_Multi-Level_Graph_Layout_by_Topological_Features/links/09e41509289f1bb5f4000000/TopoLayout-Multi-Level-Graph-Layout-by-Topological-Features.pdf
+
+## Other
+
+- ZAME: Interactive Large-Scale Graph Visualization
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.580.5610&rep=rep1&type=pdf
+
+zoomable adjacency matrix Explorer, Inria
 
 ## From MD
 
