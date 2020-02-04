@@ -1,3 +1,4 @@
+import (Plots)
 include("force_layout_fire.jl")
 import(JSON)
 
@@ -23,10 +24,15 @@ place_on_circle!(graph)
 reset_forces!(graph)
 println("number of chains: ", length(chains))
 
-
+log_energy = []
+log_dt =[]
 fire = Fire()
-for k in 1:100
-    step!(graph, fire)
+for k in 1:500
+    dt, nrj = step!(graph, fire)
+    push!(log_dt, dt)
+    push!(log_energy, nrj)
     end;
 
+Plots.plot(log_energy, yaxis=:log)
+Plots.plot(log_dt, yaxis=:lin)
 graphplot(graph, chains)
